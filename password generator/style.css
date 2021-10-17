@@ -1,0 +1,8 @@
+ .spin {
+    visibility: hidden;
+} 
+
+button:hover {
+    background: transparent !important;
+    color: rgb(30, 101, 255) !important;
+}
